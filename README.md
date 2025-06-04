@@ -1,7 +1,7 @@
 
-# OctoBotCrawler
+# GPTCrawler
 
-🚀 **OctoBotCrawler** - A Python alternative to the [**GPT Crawler by Builder.io**](https://github.com/BuilderIO/gpt-crawler)! 🔍🕸️ Built with FastAPI, Redis, and RQ workers, it's designed for scalable web crawling with concurrent page processing! 🐍✨
+🚀 **GPTCrawler** - A Python alternative to the [**GPT Crawler by Builder.io**](https://github.com/BuilderIO/gpt-crawler)! 🔍🕸️ Built with FastAPI, Redis, and RQ workers, it's designed for scalable web crawling with concurrent page processing! 🐍✨
 
 ## Features
 - **Unique Job Identifiers:** Utilizes UUIDs to ensure each crawl job is uniquely identifiable, preventing output file overwrites.
